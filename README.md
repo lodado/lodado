@@ -3,8 +3,8 @@
 I am majoring in software Engineering at Chonnam national University! 
 
 - 🌱 I’m currently learning ...  <img alt="JavaScript" src ="https://img.shields.io/badge/Javascript-F7DF1E.svg?&style=flat&logo=Javascript&logoColor=white"/> in [boostCamp](https://boostcamp.connect.or.kr/)
-<details>	
-#	<summary>I Learned... 🚀</summary>
+# <details>	
+	<summary>I Learned... 🚀</summary>
 	<ul>  
 			<li> (2016. 06 ~ 2016. 12) California state university International Programs <br></li>
 			<li> (3개월) Coursera Machine Learning<a href="https://blog.naver.com/ycp998/222180149174"> [Link]  <br></a> </li>
@@ -14,8 +14,8 @@ I am majoring in software Engineering at Chonnam national University!
 	<br>
 </details>
 	
-<details>	
-#	<summary>Projects..! 💻</summary>
+# <details>	
+	<summary>Projects..! 💻</summary>
 	<ul>  
 			<li> (2020. 06 ~ 2020. 9) 인문융합창업 인튜비 - 안드로이드 개발 <a href="https://github.com/lodado/intubee"> [github] <br></a></li>
 			<li> (2021. 03 ~ 2021. 6) 기업연계 캡스톤 프로젝트 - 크롤링 및 인공지능 <a href="https://github.com/kimtaejun97/CapstoneDesign"> [github] <br></a></li>
