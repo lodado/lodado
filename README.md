@@ -14,9 +14,10 @@ I am majoring in software Engineering at Chonnam national University!
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lodado)
 
 ## 🛠 Tech Stack
-
-<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=flat&logo=python&logoColor=white"/>
-
+<div>
+ <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=flat&logo=python&logoColor=white"/>
+ <img alt="Docker" src ="https://img.shields.io/badge/Docker-2496ED.svg?&style=flat&logo=python&logoColor=white"/>
+</div>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lodado&layout=compact&hide=MATLAB)
 
 
