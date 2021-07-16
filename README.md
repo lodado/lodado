@@ -9,11 +9,11 @@ I am majoring in software Engineering at Chonnam national University!
 
 ## Github Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lodado)
+(https://github-readme-stats.vercel.app/api?username=lodado)
 
 ## 🛠 Tech Stack
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lodado&layout=compact&hide=MATLAB)
+(https://github-readme-stats.vercel.app/api/top-langs/?username=lodado&layout=compact&hide=MATLAB)
 
 
 
