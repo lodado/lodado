@@ -26,7 +26,7 @@ I am majoring in software Engineering at Chonnam national University!
 </details>
 <details>	
 	<summary>자격증..? 👼</summary> 
-		한국사 1급, 상공회의소 한자 3급, 정보처리기사
+		한국사 1급, 상공회의소 한자 3급, 정보처리기사 😂
 </details>
 
 ## Github Stats 
