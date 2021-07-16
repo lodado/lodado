@@ -13,7 +13,7 @@ I am majoring in software Engineering at Chonnam national University!
 
 ## 🛠 Tech Stack
 <div>
- <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=flat&logo=python&logoColor=white"/>
+ <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=flat&logo=python&logoColor=white" href="https://www.python.org/"/>
  <img alt="pytorch" src ="https://img.shields.io/badge/pytorch-EE4C2C.svg?&style=flat&logo=pytorch&logoColor=orange"/>
  <img alt="Docker" src ="https://img.shields.io/badge/Docker-2496ED.svg?&style=flat&logo=Docker&logoColor=white"/>
  <img alt="Linux" src ="https://img.shields.io/badge/Linux-FCC624.svg?&style=flat&logo=Linux&logoColor=black"/>
