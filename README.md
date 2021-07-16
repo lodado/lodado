@@ -29,7 +29,7 @@ I am majoring in software Engineering at Chonnam national University!
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lodado&layout=compact&hide=MATLAB)
 
-[이성진, 김태준, 이충헌 and 유석봉. (2021). 객체 인식 정확도 개선을 위한 이미지 초해상도 기술. 한국정보통신학회논문지, 25(6), 774-784.](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002728025)
+
 
 <!--
 **lodado/lodado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
