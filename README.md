@@ -1,11 +1,8 @@
-## Hi there 👋
+## Hi there 👋 [🏠 blog](https://blog.naver.com/ycp998/)   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ycp998@gmail.com)](mailto:snugyun01@gmail.com)
 
 I am majoring in software Engineering at Chonnam national University! 
 
-- 📫 How to reach me:  [🏠 blog](https://blog.naver.com/ycp998/)   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ycp998@gmail.com)](mailto:snugyun01@gmail.com)
-
 <br>
-
 ## Github Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lodado)](https://github.com/anuraghazra/github-readme-stats)
