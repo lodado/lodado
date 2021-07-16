@@ -5,19 +5,8 @@ I am majoring in software Engineering at Chonnam national University!
 - 🌱 I’m currently learning ...  <img alt="JavaScript" src ="https://img.shields.io/badge/Javascript-F7DF1E.svg?&style=flat&logo=Javascript&logoColor=white"/> in [boostCamp](https://boostcamp.connect.or.kr/)
 <details >	
 	- <summary>I Learned... </summary>
-			코멘토 데이터베이스 직무 캠프(5주)<br>
 			[Coursera Machine Learning](https://blog.naver.com/ycp998/222180149174)	
-			[시각지능미디어연구실 컴퓨터 비전 학부연구생-11개월](https://sites.google.com/site/seokbongyoo/)
-				   [KCI- 이성진, 김태준, 이충헌 and 유석봉. (2021). 객체 인식 정확도 개선을 위한 이미지 초해상도 기술. 한국정보통신학회논문지, 25(6), 774-784.]
-				   (https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002728025)
-			
-	 </details>
-<details>
-	- <summary>Project</summary>
-			
-			[인문융합창업 인튜비 - 안드로이드 개발](https://github.com/lodado/intubee)<br>
-			[기업연계 캡스톤 프로젝트 - 크롤링 및 인공지능](https://github.com/kimtaejun97/CapstoneDesign)<br>
-			한이음 공모전 - 비콘을 이용한 스마트 매너모드 & 출결관리 모바일 어플리케이션<br>	
+		
 </details>
  
  
