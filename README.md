@@ -6,7 +6,8 @@ I am majoring in software Engineering at Chonnam national University!
 
 <br>
 
-##Github Stats
+## Github Stats
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lodado)](https://github.com/anuraghazra/github-readme-stats)
 
 
