@@ -16,7 +16,9 @@ I am majoring in software Engineering at Chonnam national University!
  <a href="https://www.python.org/">
   <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=flat&logo=python&logoColor=white" />
  </a>
- <img alt="pytorch" src ="https://img.shields.io/badge/pytorch-EE4C2C.svg?&style=flat&logo=pytorch&logoColor=orange"/>
+ <a href="https://pytorch.org/">
+  <img alt="pytorch" src ="https://img.shields.io/badge/pytorch-EE4C2C.svg?&style=flat&logo=pytorch&logoColor=orange"/>
+ </a>
  <img alt="Docker" src ="https://img.shields.io/badge/Docker-2496ED.svg?&style=flat&logo=Docker&logoColor=white"/>
  <img alt="Linux" src ="https://img.shields.io/badge/Linux-FCC624.svg?&style=flat&logo=Linux&logoColor=black"/>
  <img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=flat&logo=Java&logoColor=white"/>
