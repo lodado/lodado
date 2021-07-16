@@ -4,14 +4,11 @@ I am majoring in software Engineering at Chonnam national University!
 
 - 📫 How to reach me: 
 
-  [blog](https://blog.naver.com/ycp998/)
+ [🏠 blog](https://blog.naver.com/ycp998/)
   
   📧 email 
-    
-    - ycp998@naver.com(primary)
-
-    - ycp998@gmail.com
-
+ 
+    - Email Address : [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ycp998@naver.com)]         (mailto:fomagran6@gmail.com)
 
 <br>
 
