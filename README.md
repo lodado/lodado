@@ -7,7 +7,7 @@ I am majoring in software Engineering at Chonnam national University!
 	<summary>I Learned... 🚀</summary>
 	<ul>  
 			<li> (2016. 06 ~ 2016. 12) California state university International Programs <br></li>
-			<li> (2019. 03) 복학! 💪 <br></li>
+			<li> (2017.03 ~ 2019. 03) 전역 후 복학! 💪 <br></li>
 			<li> (2019. 12 ~ 2020. 03) Coursera Machine Learning<a href="https://blog.naver.com/ycp998/222180149174"> [Link]  <br></a> </li>
 			<li> (2020. 07 ~ 2021. 06) 시각지능미디어연구실 컴퓨터 비전 학부연구생 <a href="https://sites.google.com/site/seokbongyoo/"> [Link]   <br></a></li>
 			<li> (2021. 01 ~ 2021. 02) 코멘토 데이터베이스 직무 캠프 <br></li>
