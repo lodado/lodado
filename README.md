@@ -6,9 +6,9 @@ I am majoring in software Engineering at Chonnam national University!
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lodado)](https://github.com/anuraghazra/github-readme-stats)
 
-## Languages
+## Programming Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lodado&layout=compact)](https://github.com/anuraghazra/github-readme-stats,MATLAB)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lodado&layout=compact)](https://github.com/anuraghazra/github-readme-stats?hide=MATLAB)
 
 
 
