@@ -10,15 +10,6 @@ I am majoring in software Engineering at Chonnam national University!
 			-  (2020. 07 ~ 2021. 06) 시각지능미디어연구실 컴퓨터 비전 학부연구생 <a href="https://sites.google.com/site/seokbongyoo/"> [Link]   <br></a>
 			-  (5주) 코멘토 데이터베이스 직무 캠프 <br>
 </details>
-<details>	
- 	<summary>Projects.. 💻</summary>
-	
-	인문융합창업 인튜비 - 안드로이드 개발 <a href="https://github.com/lodado/intubee"> [github] <br></a> 
-	
-	
-	
-	
-</details>
 </div>
 
 ## Github Stats 
