@@ -6,13 +6,19 @@ I am majoring in software Engineering at Chonnam national University!
 <details>	
 	<summary>I Learned... 🚀</summary>
 	<br>
-			-  Coursera Machine Learning<a href="https://blog.naver.com/ycp998/222180149174"> [Link]  <br></a> 
-			-  시각지능미디어연구실 컴퓨터 비전 학부연구생-11개월<a href="https://sites.google.com/site/seokbongyoo/"> [Link]   <br></a>
-	-  (KCI) 이성진, 김태준, 이충헌 and 유석봉. (2021). 객체 인식 정확도 개선을 위한 이미지 초해상도 기술. 한국정보통신학회논문지, 25(6), 774-784. <a href="https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002728025"> [Link]  <br></a>
-	-  코멘토 데이터베이스 직무 캠프(5주)<br>
+			-  (3개월) Coursera Machine Learning<a href="https://blog.naver.com/ycp998/222180149174"> [Link]  <br></a> 
+			-  (2020. 07 ~ 2021. 06) 시각지능미디어연구실 컴퓨터 비전 학부연구생 <a href="https://sites.google.com/site/seokbongyoo/"> [Link]   <br></a>
+			-  (5주) 코멘토 데이터베이스 직무 캠프 <br>
 </details>
- 
- 
+<details>	
+ 	<summary>Projects.. 💻</summary>
+	
+	인문융합창업 인튜비 - 안드로이드 개발 <a href="https://github.com/lodado/intubee"> [github] <br></a> 
+	
+	
+	
+	
+</details>
 </div>
 
 ## Github Stats 
