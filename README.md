@@ -6,7 +6,14 @@ I am majoring in software Engineering at Chonnam national University!
 
   [blog](https://blog.naver.com/ycp998/)
   
-  [📧 email](ycp998@naver.com)
+  📧 email 
+    
+    - ycp998@naver.com(primary)
+
+    - ycp998@gmail.com
+
+
+
 
 
 
