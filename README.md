@@ -6,9 +6,9 @@ I am majoring in software Engineering at Chonnam national University!
 <details>	
 	<summary>I Learned... 🚀</summary>
 	<br>
-			-  (3개월) Coursera Machine Learning<a href="https://blog.naver.com/ycp998/222180149174"> [Link]  <br></a> 
-			-  (2020. 07 ~ 2021. 06) 시각지능미디어연구실 컴퓨터 비전 학부연구생 <a href="https://sites.google.com/site/seokbongyoo/"> [Link]   <br></a>
-			-  (5주) 코멘토 데이터베이스 직무 캠프 <br>
+#			-  (3개월) Coursera Machine Learning<a href="https://blog.naver.com/ycp998/222180149174"> [Link]  <br></a> 
+#			-  (2020. 07 ~ 2021. 06) 시각지능미디어연구실 컴퓨터 비전 학부연구생 <a href="https://sites.google.com/site/seokbongyoo/"> [Link]   <br></a>
+#			-  (5주) 코멘토 데이터베이스 직무 캠프 <br>
 </details>
 </div>
 
