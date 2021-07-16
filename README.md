@@ -13,15 +13,15 @@ I am majoring in software Engineering at Chonnam national University!
 			
 	</ul>
 </details>
-
+	
 <details>	
 	<summary>Projects..! 💻</summary>
 	<ul>  
-			<li> (2020. 06 ~ 2020. 9) 인문융합창업 인튜비 - 안드로이드 개발 <a href="https://github.com/lodado/intubee"> [github] <br></a><</li>
-			<li> (2021. 03 ~ 2021. 6) 기업연계 캡스톤 프로젝트 - 크롤링 및 인공지능 <a href="https://github.com/kimtaejun97/CapstoneDesign"> [github] <br></a><</li>
+			<li> (2020. 06 ~ 2020. 9) 인문융합창업 인튜비 - 안드로이드 개발 <a href="https://github.com/lodado/intubee"> [github] <br></a></li>
+			<li> (2021. 03 ~ 2021. 6) 기업연계 캡스톤 프로젝트 - 크롤링 및 인공지능 <a href="https://github.com/kimtaejun97/CapstoneDesign"> [github] <br></a></li>
 		 	<li> (2021. 04 ~ 2021. 11) 한이음 공모전 - 비콘을 이용한 스마트 매너모드 & 출결관리 모바일 어플리케이션 <br></li>
-			
 	</ul>
+	<br>
 </details>
 
 
