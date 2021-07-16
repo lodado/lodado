@@ -28,12 +28,9 @@ I am majoring in software Engineering at Chonnam national University!
 
 ## Github Stats 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lodado&layout=compact&hide=MATLAB)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lodado)
 
 ## 🛠 Tech Stack
-
-
 
 <div>
  <a href="https://www.python.org/">
@@ -50,7 +47,7 @@ I am majoring in software Engineering at Chonnam national University!
 </div>
 <br>
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lodado&layout=compact&hide=MATLAB)
 
 <!--
 **lodado/lodado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
