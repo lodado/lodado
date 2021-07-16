@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 I am majoring in software Engineering at Chonnam national University! 
 
