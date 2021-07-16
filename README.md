@@ -2,7 +2,7 @@
 
 I am majoring in software Engineering at Chonnam national University! 
 
-- 🌱 I’m currently learning ...  <img alt="JavaScript" src ="https://img.shields.io/badge/Javascript-F7DF1E.svg?&style=flat&logo=Javascript&logoColor=white"/>
+- 🌱 I’m currently learning ...  <img alt="JavaScript" src ="https://img.shields.io/badge/Javascript-F7DF1E.svg?&style=flat&logo=Javascript&logoColor=white"/> in [boostCamp](https://boostcamp.connect.or.kr/)
 <div align="left">
  
 </div>
