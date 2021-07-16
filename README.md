@@ -1,4 +1,4 @@
-## Hi there 👋 [🏠 blog](https://blog.naver.com/ycp998/)   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ycp998@gmail.com)](mailto:snugyun01@gmail.com)
+## Hi there 👋 [🏠 blog](https://blog.naver.com/ycp998/)   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ycp998@gmail.com)](mailto:ycp998@gmail.com)
 
 I am majoring in software Engineering at Chonnam national University! 
 <br>
