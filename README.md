@@ -7,7 +7,7 @@ I am majoring in software Engineering at Chonnam national University!
  
 </div>
 
-<div style="text-shadow: 0px 0px 3px darkBlue"> 
+<div style="text-shadow : 0px 0px 3px darkBlue"> 
  Github Stats 
 </div>
 
