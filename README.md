@@ -3,8 +3,10 @@
 I am majoring in software Engineering at Chonnam national University! 
 
 - 📫 How to reach me: 
+
   [blog](https://blog.naver.com/ycp998/)
-  [📧 email] (https://naver.com/ycp998/)
+  
+  [📧 email](ycp998@naver.com)
 
 
 
