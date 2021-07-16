@@ -6,12 +6,11 @@ I am majoring in software Engineering at Chonnam national University!
 <details >	
 	- <summary>I Learned... </summary>
 			코멘토 데이터베이스 직무 캠프(5주)<br>
-			[Coursera Machine Learning](https://blog.naver.com/ycp998/222180149174)<br>	
+			[Coursera Machine Learning](https://blog.naver.com/ycp998/222180149174)	
 			[시각지능미디어연구실 컴퓨터 비전 학부연구생-11개월](https://sites.google.com/site/seokbongyoo/)
-			<br>
 				   [KCI- 이성진, 김태준, 이충헌 and 유석봉. (2021). 객체 인식 정확도 개선을 위한 이미지 초해상도 기술. 한국정보통신학회논문지, 25(6), 774-784.]
 				   (https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002728025)
-			<br>
+			
 	 </details>
 <details>
 	- <summary>Project</summary>
