@@ -24,7 +24,10 @@ I am majoring in software Engineering at Chonnam national University!
 		 	<li> (2021. 04 ~ 2021. 11) 한이음 공모전 - 비콘을 이용한 스마트 매너모드 & 출결관리 모바일 어플리케이션 <br></li>
 	</ul>
 </details>
-
+<details>	
+	<summary>자격증..? 👼</summary> 
+		한국사 1급, 상공회의소 한자 3급, 정보처리기사
+</details>
 
 ## Github Stats 
 
