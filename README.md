@@ -4,7 +4,7 @@ I am majoring in software Engineering at Chonnam national University!
 
 - 🌱 I’m currently learning ...  <img alt="JavaScript" src ="https://img.shields.io/badge/Javascript-F7DF1E.svg?&style=flat&logo=Javascript&logoColor=white"/> in [boostCamp](https://boostcamp.connect.or.kr/)
 <details>	
-	<summary>Histroy..! 🚀</summary>
+	<summary>History..! 🚀</summary>
 	<ul>  
 			<li> (2016. 06 ~ 2016. 12) California state university International Programs <br></li>
 			<li> (2017.03 ~ 2019. 03) 병역의 의무! 💪 <br></li>
@@ -28,8 +28,8 @@ I am majoring in software Engineering at Chonnam national University!
 
 ## Github Stats 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lodado)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lodado&layout=compact&hide=MATLAB)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lodado)
 
 ## 🛠 Tech Stack
 
