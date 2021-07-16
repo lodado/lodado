@@ -2,6 +2,11 @@
 
 I am majoring in software Engineering at Chonnam national University! 
 
+- 📫 How to reach me: 
+  [blog](https://blog.naver.com/ycp998/)
+  [📧 email] (https://naver.com/ycp998/)
+
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lodado)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -20,7 +25,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
