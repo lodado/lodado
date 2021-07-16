@@ -6,7 +6,7 @@
 <details>	
 	<summary>History..! 🚀</summary>
 	<ul>  
-			<li> (2015. 03 ~ 2021. 2) 전남대학교 입학!🐥 <br></li>
+			<li> (2015. 03 ~ 2022. 2) 전남대학교 입학!🐥 <br></li>
 			<li> (2016. 06 ~ 2016. 12) California Fullerton State University International Programs <br></li>
 			<li> (2017.03 ~ 2019. 03) 병역의 의무! 💪 <br></li>
 			<li> (2019. 12 ~ 2020. 03) Coursera Machine Learning<a href="https://blog.naver.com/ycp998/222180149174"> [Link]  <br></a> </li>
