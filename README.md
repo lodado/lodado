@@ -46,7 +46,6 @@ I am majoring in software Engineering at Chonnam national University!
  <img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat&logo=MySQL&logoColor=white"/>
 </div>
 <br>
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lodado&layout=compact&hide=MATLAB)
 
 <!--
