@@ -4,9 +4,7 @@ I am majoring in software Engineering at Chonnam national University!
 <br>
 ### 🛠 Tech Stack
 <div align="left">
-  <img src="https://img.shields.io/badge/HTML5-e34f26?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/css-686de0?style=flat-square&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-f9ca24?style=flat-square&logo=javascript&logoColor=white"/>
+ 
 </div>
 
 ## Github Stats
