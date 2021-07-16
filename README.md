@@ -4,11 +4,11 @@ I am majoring in software Engineering at Chonnam national University!
 
 - 🌱 I’m currently learning ...  <img alt="JavaScript" src ="https://img.shields.io/badge/Javascript-F7DF1E.svg?&style=flat&logo=Javascript&logoColor=white"/> in [boostCamp](https://boostcamp.connect.or.kr/)
 <details>	
-	<summary>I Learned... </summary>
+	<summary>I Learned... 🚀</summary>
 	<br>
-			-  Coursera Machine Learning<a href="https://blog.naver.com/ycp998/222180149174"> [Link]  <br><br></a> 
-			-  시각지능미디어연구실 컴퓨터 비전 학부연구생-11개월<a href="https://sites.google.com/site/seokbongyoo/"> [Link]   <br><br></a>
-	-  (KCI) 이성진, 김태준, 이충헌 and 유석봉. (2021). 객체 인식 정확도 개선을 위한 이미지 초해상도 기술. 한국정보통신학회논문지, 25(6), 774-784. <a href="https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002728025"> [Link]  <br><br></a>
+			-  Coursera Machine Learning<a href="https://blog.naver.com/ycp998/222180149174"> [Link]  <br></a> 
+			-  시각지능미디어연구실 컴퓨터 비전 학부연구생-11개월<a href="https://sites.google.com/site/seokbongyoo/"> [Link]   <br></a>
+	-  (KCI) 이성진, 김태준, 이충헌 and 유석봉. (2021). 객체 인식 정확도 개선을 위한 이미지 초해상도 기술. 한국정보통신학회논문지, 25(6), 774-784. <a href="https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002728025"> [Link]  <br></a>
 	-  코멘토 데이터베이스 직무 캠프(5주)<br>
 </details>
  
