@@ -7,11 +7,7 @@ I am majoring in software Engineering at Chonnam national University!
  
 </div>
 
-<div style="text-shadow : 0px 0px 3px darkBlue"> 
- Github Stats 
-</div>
-
-<hr>
+## Github Stats 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lodado)
 
