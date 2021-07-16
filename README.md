@@ -2,18 +2,18 @@
 
 I am majoring in software Engineering at Chonnam national University! 
 <br>
-### 🛠 Tech Stack
+
 <div align="left">
  
 </div>
 
 ## Github Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lodado)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lodado)]()
 
-## Programming Languages
+## 🛠 Tech Stack
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lodado&layout=compact&hide=MATLAB)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lodado&layout=compact&hide=MATLAB)]()
 
 
 
