@@ -13,11 +13,10 @@ I am majoring in software Engineering at Chonnam national University!
     - ycp998@gmail.com
 
 
+<br>
 
 
-
-
-    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lodado)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lodado)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
