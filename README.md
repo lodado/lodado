@@ -46,9 +46,12 @@
  </a>
  <img alt="Docker" src ="https://img.shields.io/badge/Docker-2496ED.svg?&style=flat&logo=Docker&logoColor=white"/>
  <img alt="Linux" src ="https://img.shields.io/badge/Linux-FCC624.svg?&style=flat&logo=Linux&logoColor=black"/>
+ <img alt="Raspberry Pi" src ="https://img.shields.io/badge/Raspberry Pi-A22846.svg?&style=flat&logo=Raspberry PiL&logoColor=white"/>
  <img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=flat&logo=Java&logoColor=white"/>
  <img alt="JavaScript" src ="https://img.shields.io/badge/Javascript-F7DF1E.svg?&style=flat&logo=Javascript&logoColor=important"/>
  <img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat&logo=MySQL&logoColor=white"/>
+
+	
 </div>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lodado&layout=compact&hide=MATLAB)
