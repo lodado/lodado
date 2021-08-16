@@ -1,4 +1,4 @@
-## Hi there 👋 [🏠 blog](https://blog.naver.com/ycp998/)   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ycp998@gmail.com)](mailto:ycp998@gmail.com)
+# Hi there 👋 [🏠 blog](https://blog.naver.com/ycp998/)   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ycp998@gmail.com)](mailto:ycp998@gmail.com)
 
  I am majoring in software Engineering at Chonnam national University! 
 
@@ -31,28 +31,55 @@
 		한국사 1급, 상공회의소 한자 3급, 정보처리기사 😂
 </details>
 
-## Github Stats 
+# Github Stats 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lodado)
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
+
+
+## Language
 <div>
  <a href="https://www.python.org/">
-  <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=flat&logo=python&logoColor=white" />
+  	<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=flat&logo=python&logoColor=white" />
  </a>
- <a href="https://pytorch.org/">
-  <img alt="pytorch" src ="https://img.shields.io/badge/pytorch-EE4C2C.svg?&style=flat&logo=pytorch&logoColor=orange"/>
- </a>
- <img alt="Docker" src ="https://img.shields.io/badge/Docker-2496ED.svg?&style=flat&logo=Docker&logoColor=white"/>
- <img alt="Linux" src ="https://img.shields.io/badge/Linux-FCC624.svg?&style=flat&logo=Linux&logoColor=black"/>
- <img alt="Raspberry Pi" src ="https://img.shields.io/badge/Raspberry Pi-A22846.svg?&style=flat&logo=Raspberry Pi&logoColor=white"/>
  <img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=flat&logo=Java&logoColor=white"/>
  <img alt="JavaScript" src ="https://img.shields.io/badge/Javascript-F7DF1E.svg?&style=flat&logo=Javascript&logoColor=important"/>
- <img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat&logo=MySQL&logoColor=white"/>
-
-	
 </div>
+
+## framework
+<div>
+<a href="https://pytorch.org/">
+  <img alt="pytorch" src ="https://img.shields.io/badge/pytorch-EE4C2C.svg?&style=flat&logo=pytorch&logoColor=orange"/>
+</a>
+  <img alt="node.js" src ="https://img.shields.io/badge/node.js-339933.svg?&style=flat&logo=node.js&logoColor=green"/>
+ <img alt="TypeScript" src ="https://img.shields.io/badge/TypeScript-white.svg?&style=flat&logo=TypeScript&logoColor=3178C6"/>
+</div>
+ 
+
+## DB
+
+<div>
+<img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat&logo=MySQL&logoColor=white"/>
+</div>
+
+## DevOps & Tools
+
+<div>
+<img alt="Docker" src ="https://img.shields.io/badge/Docker-2496ED.svg?&style=flat&logo=Docker&logoColor=white"/>
+<img alt="git" src ="https://img.shields.io/badge/git-F05032.svg?&style=flat&logo=git&logoColor=orange"/>
+</div>
+
+## other
+
+<div>
+ <img alt="Linux" src ="https://img.shields.io/badge/Linux-FCC624.svg?&style=flat&logo=Linux&logoColor=black"/>
+ <img alt="Ubuntu" src ="https://img.shields.io/badge/Ubuntu-E95420.svg?&style=flat&logo=Ubuntu&logoColor=orange"/>
+ <img alt="Raspberry Pi" src ="https://img.shields.io/badge/Raspberry Pi-A22846.svg?&style=flat&logo=Raspberry Pi&logoColor=white"/>
+</div>
+
+<br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lodado&layout=compact&hide=MATLAB)
 
