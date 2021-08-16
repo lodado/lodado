@@ -41,10 +41,11 @@
 
 ## Language
 <div>
+
+ <img alt="Java" src ="https://img.shields.io/badge/Java-orange.svg?&style=flat&logo=Java&logoColor=white"/>
  <a href="https://www.python.org/">
   	<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=flat&logo=python&logoColor=white" />
  </a>
- <img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=flat&logo=Java&logoColor=white"/>
  <img alt="JavaScript" src ="https://img.shields.io/badge/Javascript-F7DF1E.svg?&style=flat&logo=Javascript&logoColor=important"/>
 </div>
 
