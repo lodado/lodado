@@ -77,7 +77,7 @@
  <img alt="Linux" src ="https://img.shields.io/badge/Linux-FCC624.svg?&style=flat&logo=Linux&logoColor=black"/>
  <img alt="Ubuntu" src ="https://img.shields.io/badge/Ubuntu-E95420.svg?&style=flat&logo=Ubuntu&logoColor=orange"/>
  <img alt="Raspberry Pi" src ="https://img.shields.io/badge/Raspberry Pi-A22846.svg?&style=flat&logo=Raspberry Pi&logoColor=white"/>
- <img alt="iBeacon" src ="https://img.shields.io/badge/iBeacon-white.svg?&style=flat&logo=iBeacon&logoColor=black"/>
+ <img alt="iBeacon" src ="https://img.shields.io/badge/iBeacon-white.svg?&style=flat&logo=iBeacon&logoColor=3D7EBB"/>
 </div>
 
 <br>
