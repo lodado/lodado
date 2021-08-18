@@ -49,7 +49,7 @@
  <img alt="JavaScript" src ="https://img.shields.io/badge/Javascript-F7DF1E.svg?&style=flat&logo=Javascript&logoColor=important"/>
 </div>
 
-## framework
+## framework & library
 <div>
 <a href="https://pytorch.org/">
   <img alt="pytorch" src ="https://img.shields.io/badge/pytorch-EE4C2C.svg?&style=flat&logo=pytorch&logoColor=orange"/>
