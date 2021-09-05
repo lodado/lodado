@@ -52,11 +52,13 @@
 
 ## framework & library
 <div>
+
 <a href="https://pytorch.org/">
   <img alt="pytorch" src ="https://img.shields.io/badge/pytorch-EE4C2C.svg?&style=flat&logo=pytorch&logoColor=orange"/>
 </a>
   <img alt="node.js" src ="https://img.shields.io/badge/node.js-339933.svg?&style=flat&logo=node.js&logoColor=green"/>
  <img alt="TypeScript" src ="https://img.shields.io/badge/TypeScript-white.svg?&style=flat&logo=TypeScript&logoColor=3178C6"/>
+<img alt="express" src ="https://img.shields.io/badge/express-yellow.svg?&style=flat&logo=node.js&logoColor=green"/>
 </div>
  
 
@@ -77,6 +79,8 @@
 ## other
 
 <div>
+ <a href="https://solved.ac/profile/loda"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=loda"/></a>	
+	
  <img alt="Linux" src ="https://img.shields.io/badge/Linux-FCC624.svg?&style=flat&logo=Linux&logoColor=black"/>
  <img alt="Ubuntu" src ="https://img.shields.io/badge/Ubuntu-E95420.svg?&style=flat&logo=Ubuntu&logoColor=orange"/>
  <img alt="Raspberry Pi" src ="https://img.shields.io/badge/Raspberry Pi-A22846.svg?&style=flat&logo=Raspberry Pi&logoColor=white"/>
@@ -85,7 +89,11 @@
 
 <br>
 
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lodado&layout=compact&hide=MATLAB)
+
+
+
 
 <!--
 **lodado/lodado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
