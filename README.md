@@ -32,10 +32,6 @@
 		한국사 1급, 상공회의소 한자 3급, 정보처리기사 😂
 </details>
  
-# Github Stats  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/lodado/hit-counter&count_bg=%23FFB100&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lodado)
-
 # 🛠 Tech Stack
 
 
@@ -88,6 +84,10 @@
 </div>
 
 <br>
+
+# Github Stats  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/lodado/hit-counter&count_bg=%23FFB100&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lodado)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lodado&layout=compact&hide=MATLAB)
 
