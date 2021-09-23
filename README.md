@@ -32,10 +32,12 @@
 		 	<li> (2021. 04 ~ 2021. 11) 한이음 공모전 - 비콘을 이용한 스마트 매너모드 & 출결관리 모바일 어플리케이션 <br></li>
 	</ul>
 </details>
+<!--
 <details>	
 	<summary>자격증..? 👼</summary> 
-		한국사 1급, 상공회의소 한자 3급, 정보처리기사 😂
+		정보처리기사 😂
 </details>
+-->
  
 # 🛠 Tech Stack
 
@@ -58,7 +60,7 @@
   <img alt="pytorch" src ="https://img.shields.io/badge/pytorch-EE4C2C.svg?&style=flat&logo=pytorch&logoColor=orange"/>
 </a>
   <img alt="node.js" src ="https://img.shields.io/badge/node.js-339933.svg?&style=flat&logo=node.js&logoColor=green"/>
- <img alt="TypeScript" src ="https://img.shields.io/badge/TypeScript-white.svg?&style=flat&logo=TypeScript&logoColor=3178C6"/>
+<!-- <img alt="TypeScript" src ="https://img.shields.io/badge/TypeScript-white.svg?&style=flat&logo=TypeScript&logoColor=3178C6"/> -->
 <img alt="express" src ="https://img.shields.io/badge/express-green.svg?&style=flat&logo=node.js&logoColor=white"/>
 </div>
  
