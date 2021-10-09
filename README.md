@@ -56,17 +56,19 @@
 
 </div>
 
-## framework & library
+## FRONTEND
+
 <div>
+	<img alt="react" src ="https://img.shields.io/badge/React-white.svg?&style=flat&logo=React&logoColor=61DAFB"/>
+	<img alt="webpack" src ="https://img.shields.io/badge/webpack-8DD6F9.svg?&style=flat&logo=webpack&logoColor=white"/>
+</div>
 
-<a href="https://pytorch.org/">
-  <img alt="pytorch" src ="https://img.shields.io/badge/pytorch-EE4C2C.svg?&style=flat&logo=pytorch&logoColor=orange"/>
-</a>
-  <img alt="node.js" src ="https://img.shields.io/badge/node.js-339933.svg?&style=flat&logo=node.js&logoColor=green"/>
+## BACKEND
 
-<img alt="express" src ="https://img.shields.io/badge/express-green.svg?&style=flat&logo=node.js&logoColor=white"/>
-	
-<img alt="webpack" src ="https://img.shields.io/badge/webpack-8DD6F9.svg?&style=flat&logo=webpack&logoColor=white"/>
+<div>
+	<img alt="node.js" src ="https://img.shields.io/badge/node.js-339933.svg?&style=flat&logo=node.js&logoColor=green"/>
+	<img alt="express" src ="https://img.shields.io/badge/express-green.svg?&style=flat&logo=node.js&logoColor=white"/>
+	<img alt="Sequelize" src ="https://img.shields.io/badge/Sequelize-white.svg?&style=flat&logo=Sequelize&logoColor=52B0E7"/>
 </div>
  
 
@@ -95,6 +97,9 @@
  <img alt="Ubuntu" src ="https://img.shields.io/badge/Ubuntu-E95420.svg?&style=flat&logo=Ubuntu&logoColor=orange"/>
  <img alt="Raspberry Pi" src ="https://img.shields.io/badge/Raspberry Pi-A22846.svg?&style=flat&logo=Raspberry Pi&logoColor=white"/>
  <img alt="iBeacon" src ="https://img.shields.io/badge/iBeacon-white.svg?&style=flat&logo=iBeacon&logoColor=3D7EBB"/>
+	<a href="https://pytorch.org/">
+  	<img alt="pytorch" src ="https://img.shields.io/badge/pytorch-EE4C2C.svg?&style=flat&logo=pytorch&logoColor=orange"/>
+	</a>
 </div>
 
 <br>
