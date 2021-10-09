@@ -51,6 +51,9 @@
   	<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=flat&logo=python&logoColor=white" />
  </a>
  <img alt="JavaScript" src ="https://img.shields.io/badge/Javascript-F7DF1E.svg?&style=flat&logo=Javascript&logoColor=important"/>
+   
+ <img alt="TypeScript" src ="https://img.shields.io/badge/TypeScript-white.svg?&style=flat&logo=TypeScript&logoColor=3178C6"/>
+
 </div>
 
 ## framework & library
@@ -60,8 +63,10 @@
   <img alt="pytorch" src ="https://img.shields.io/badge/pytorch-EE4C2C.svg?&style=flat&logo=pytorch&logoColor=orange"/>
 </a>
   <img alt="node.js" src ="https://img.shields.io/badge/node.js-339933.svg?&style=flat&logo=node.js&logoColor=green"/>
-<!-- <img alt="TypeScript" src ="https://img.shields.io/badge/TypeScript-white.svg?&style=flat&logo=TypeScript&logoColor=3178C6"/> -->
+
 <img alt="express" src ="https://img.shields.io/badge/express-green.svg?&style=flat&logo=node.js&logoColor=white"/>
+	
+<img alt="webpack" src ="https://img.shields.io/badge/webpack-8DD6F9.svg?&style=flat&logo=webpack&logoColor=white"/>
 </div>
  
 
@@ -77,6 +82,8 @@
 <img alt="Docker" src ="https://img.shields.io/badge/Docker-2496ED.svg?&style=flat&logo=Docker&logoColor=white"/>
 <img alt="git" src ="https://img.shields.io/badge/git-F05032.svg?&style=flat&logo=git&logoColor=orange"/>
 <img src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=Heroku&logoColor=white"/></a>&nbsp
+
+
 </div>
 
 ## other
