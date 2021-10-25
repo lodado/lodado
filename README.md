@@ -46,9 +46,7 @@
 ## Language
 <div>
 
- <img alt="Java" src ="https://img.shields.io/badge/Java-orange.svg?&style=flat&logo=Java&logoColor=white"/>
- <a href="https://www.python.org/">
-  	<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=flat&logo=python&logoColor=white" />
+  <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=flat&logo=python&logoColor=white" />
  </a>
  <img alt="JavaScript" src ="https://img.shields.io/badge/Javascript-F7DF1E.svg?&style=flat&logo=Javascript&logoColor=important"/>
    
@@ -60,7 +58,7 @@
 
 <div>
 	<img alt="react" src ="https://img.shields.io/badge/React-white.svg?&style=flat&logo=React&logoColor=61DAFB"/>
-	<img alt="Redux" src ="https://img.shields.io/badge/Redux-764ABC.svg?&style=flat&logo=Redux&logoColor=white"/>
+	<!--<img alt="Redux" src ="https://img.shields.io/badge/Redux-764ABC.svg?&style=flat&logo=Redux&logoColor=white"/>-->
 	<img alt="webpack" src ="https://img.shields.io/badge/webpack-8DD6F9.svg?&style=flat&logo=webpack&logoColor=white"/>
 </div>
 
@@ -69,7 +67,7 @@
 <div>
 	<img alt="node.js" src ="https://img.shields.io/badge/node.js-339933.svg?&style=flat&logo=node.js&logoColor=green"/>
 	<img alt="express" src ="https://img.shields.io/badge/express-green.svg?&style=flat&logo=node.js&logoColor=white"/>
-	<img alt="Sequelize" src ="https://img.shields.io/badge/Sequelize-white.svg?&style=flat&logo=Sequelize&logoColor=52B0E7"/>
+	<!--<img alt="Sequelize" src ="https://img.shields.io/badge/Sequelize-white.svg?&style=flat&logo=Sequelize&logoColor=52B0E7"/>-->
 </div>
  
 
