@@ -29,7 +29,7 @@
 			<li> (2019. 07 ~ 2019. 12) 객체지향설계프로젝트 - 자바 <br></li>
 			<li> (2020. 06 ~ 2020. 9) 인문융합창업 인튜비 - 안드로이드 개발 <a href="https://github.com/lodado/intubee"> [github] </a><a href="https://blog.naver.com/ycp998/222150953891"> [PPT] </a><br></li>
 			<li> (2021. 03 ~ 2021. 6) 기업연계 캡스톤 프로젝트 - 크롤링 및 인공지능 <a href="https://github.com/kimtaejun97/CapstoneDesign"> [github] </a><a href="https://www.youtube.com/watch?v=Z-rEd8UgH2U"> [발표 링크]</a></li>
-		 	<li> (2021. 04 ~ 2021. 11) 한이음 공모전 - 비콘을 이용한 스마트 매너모드 & 출결관리 모바일 어플리케이션 <br></li>
+		 	<li> (2021. 04 ~ 2021. 11) 한이음 공모전 - 비콘(BLE)을 이용한 원격 출입 관리 시스템 <br></li>
 	</ul>
 </details>
 <!--
