@@ -58,8 +58,9 @@
 
 <div>
 	<img alt="react" src ="https://img.shields.io/badge/React-white.svg?&style=flat&logo=React&logoColor=61DAFB"/>
-	<!--<img alt="Redux" src ="https://img.shields.io/badge/Redux-764ABC.svg?&style=flat&logo=Redux&logoColor=white"/>-->
+	<!--<img alt="Redux" src ="https://img.shields.io/badge/Redux-764ABC.svg?&style=flat&logo=React&logoColor=white"/>-->
 	<img alt="webpack" src ="https://img.shields.io/badge/webpack-8DD6F9.svg?&style=flat&logo=webpack&logoColor=white"/>
+	<img alt="Recoil" src ="https://img.shields.io/badge/Recoil-004060.svg?&style=flat&logo=React&logoColor=white"/>
 </div>
 
 ## BACKEND
