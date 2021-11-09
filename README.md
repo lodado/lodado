@@ -61,6 +61,7 @@
 	<!--<img alt="Redux" src ="https://img.shields.io/badge/Redux-764ABC.svg?&style=flat&logo=React&logoColor=white"/>-->
 	<img alt="webpack" src ="https://img.shields.io/badge/webpack-8DD6F9.svg?&style=flat&logo=webpack&logoColor=white"/>
 	<img alt="Recoil" src ="https://img.shields.io/badge/Recoil-004060.svg?&style=flat&logo=React&logoColor=white"/>
+	<img alt="Styled-Components" src ="https://img.shields.io/badge/Styled_Components-DB7093.svg?&style=flat&logo=styled-components&logoColor=white"/>
 </div>
 
 ## BACKEND
@@ -69,6 +70,7 @@
 	<img alt="node.js" src ="https://img.shields.io/badge/node.js-339933.svg?&style=flat&logo=node.js&logoColor=green"/>
 	<img alt="express" src ="https://img.shields.io/badge/express-green.svg?&style=flat&logo=node.js&logoColor=white"/>
 	<!--<img alt="Sequelize" src ="https://img.shields.io/badge/Sequelize-white.svg?&style=flat&logo=Sequelize&logoColor=52B0E7"/>-->
+	<img alt="TypeOrm" src ="https://img.shields.io/badge/TypeOrm-white.svg?&style=flat&logo=TypeScript&logoColor=52B0E7"/>
 </div>
  
 
