@@ -63,6 +63,8 @@
 	<img alt="Recoil" src ="https://img.shields.io/badge/Recoil-004060.svg?&style=flat&logo=React&logoColor=white"/>
 	<img alt="Styled-Components" src ="https://img.shields.io/badge/Styled_Components-DB7093.svg?&style=flat&logo=styled-components&logoColor=white"/>
 	<img alt="Jest" src ="https://img.shields.io/badge/Jest-C21325.svg?&style=flat&logo=Jest&logoColor=white"/>
+	<img alt="Prettier" src ="https://img.shields.io/badge/Prettier-192A33.svg?&style=flat&logo=Prettier&logoColor=F7B93E"/>
+	<img alt="ESLint" src ="https://img.shields.io/badge/ESLint-4B32C3.svg?&style=flat&logo=ESLint&logoColor=white"/>
 </div>
 
 ## BACKEND
