@@ -3,11 +3,16 @@
 </a>
 
 
-# Hi there 👋 [🏠 blog](https://blog.naver.com/ycp998/)   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ycp998@gmail.com)](mailto:ycp998@gmail.com)
+# Introduce 👋 [🏠 blog](https://blog.naver.com/ycp998/)   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ycp998@gmail.com)](mailto:ycp998@gmail.com)
 
- I am majoring in software Engineering at Chonnam national University! 
+##### 저는 이런 사람이고 싶습니다.
 
-- 🌱 I’m currently learning ...  <img alt="JavaScript" src ="https://img.shields.io/badge/Javascript-F7DF1E.svg?&style=flat&logo=Javascript&logoColor=white"/> in [boostCamp](https://boostcamp.connect.or.kr/)
+1. 피드백의 강력함을 아는 사람
+2. 돋보이는 스타 플레이어가 아닌, 팀원들과 함께 빛나는 별이 되고 싶은 사람  
+3. 받은만큼 베풀줄 아는 사람
+4. 서로의 차이점을 이해하고 수용하는 사람
+5. 어제보다 발전한 오늘을 사는 사람
+
 <details>	
 	<summary>History..! 🚀</summary>
 	<ul>  
@@ -26,9 +31,9 @@
 <details>	
 	<summary>Projects..! 💻</summary>
 	<ul>  
-			<li> (2020. 06 ~ 2020. 9) 인문융합창업 인튜비 - 안드로이드 개발 <a href="https://github.com/lodado/intubee"> [github] </a><a href="https://blog.naver.com/ycp998/222150953891"> [PPT] </a><br></li>
-			<li> (2021. 03 ~ 2021. 6) 기업연계 캡스톤 프로젝트 - 크롤링 & 인공지능 <a href="https://github.com/kimtaejun97/CapstoneDesign"> [github] </a><a href="https://www.youtube.com/watch?v=Z-rEd8UgH2U"> [발표 링크]</a></li>
-			<li> (2021. 10 ~ 2021. 12) 협업 어플리케이션 Booslack(네이버 부스트캠프) - frontend & backend  <a href="https://github.com/boostcampwm-2021/web06-booslack"> [github] </a></li>
+	    <li> (2021. 10 ~ 2021. 12) 협업 어플리케이션 Booslack(네이버 부스트캠프) - frontend 위주 개발  <a href="https://github.com/boostcampwm-2021/web06-booslack"> [github] </a></li>
+	    <li> (2021. 03 ~ 2021. 6) 기업연계 캡스톤 프로젝트 - 크롤링 & 인공지능 <a href="https://github.com/kimtaejun97/CapstoneDesign"> [github] </a><a href="https://www.youtube.com/watch?v=Z-rEd8UgH2U"> [발표 링크]</a></li>
+	    <li> (2020. 06 ~ 2020. 9) 인문융합창업 인튜비 - 안드로이드 개발 <a href="https://github.com/lodado/intubee"> [github] </a><a href="https://blog.naver.com/ycp998/222150953891"> [PPT] </a><br></li>		
 	</ul>
 </details>
 <!--
