@@ -28,7 +28,7 @@
 	<ul>  
 			<li> (2020. 06 ~ 2020. 9) 인문융합창업 인튜비 - 안드로이드 개발 <a href="https://github.com/lodado/intubee"> [github] </a><a href="https://blog.naver.com/ycp998/222150953891"> [PPT] </a><br></li>
 			<li> (2021. 03 ~ 2021. 6) 기업연계 캡스톤 프로젝트 - 크롤링 및 인공지능 <a href="https://github.com/kimtaejun97/CapstoneDesign"> [github] </a><a href="https://www.youtube.com/watch?v=Z-rEd8UgH2U"> [발표 링크]</a></li>
-			<li> (2021. 10 ~ 2021. 11) 네이버 부스트캠프 그룹 프로젝트 - 협업 어플리케이션 ooslack  <a href="https://github.com/boostcampwm-2021/web06-booslack"> [github] </a></li>
+			<li> (2021. 10 ~ 2021. 12) 네이버 부스트캠프 그룹 프로젝트 - 협업 어플리케이션 Booslack  <a href="https://github.com/boostcampwm-2021/web06-booslack"> [github] </a></li>
 	</ul>
 </details>
 <!--
