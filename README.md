@@ -66,9 +66,10 @@
 	<img alt="webpack" src ="https://img.shields.io/badge/webpack-8DD6F9.svg?&style=flat&logo=webpack&logoColor=white"/>
 	<img alt="Recoil" src ="https://img.shields.io/badge/Recoil-004060.svg?&style=flat&logo=React&logoColor=white"/>
 	<img alt="Styled-Components" src ="https://img.shields.io/badge/Styled_Components-DB7093.svg?&style=flat&logo=styled-components&logoColor=white"/>
+	<!--
 	<img alt="Jest" src ="https://img.shields.io/badge/Jest-C21325.svg?&style=flat&logo=Jest&logoColor=white"/>
 	<img alt="Prettier" src ="https://img.shields.io/badge/Prettier-192A33.svg?&style=flat&logo=Prettier&logoColor=F7B93E"/>
-	<img alt="ESLint" src ="https://img.shields.io/badge/ESLint-4B32C3.svg?&style=flat&logo=ESLint&logoColor=white"/>
+	<img alt="ESLint" src ="https://img.shields.io/badge/ESLint-4B32C3.svg?&style=flat&logo=ESLint&logoColor=white"/>-->
 </div>
 
 ## BACKEND
@@ -77,7 +78,7 @@
 	<img alt="node.js" src ="https://img.shields.io/badge/node.js-339933.svg?&style=flat&logo=node.js&logoColor=green"/>
 	<img alt="express" src ="https://img.shields.io/badge/express-green.svg?&style=flat&logo=node.js&logoColor=white"/>
 	<!--<img alt="Sequelize" src ="https://img.shields.io/badge/Sequelize-white.svg?&style=flat&logo=Sequelize&logoColor=52B0E7"/>-->
-	<img alt="TypeOrm" src ="https://img.shields.io/badge/TypeOrm-white.svg?&style=flat&logo=TypeScript&logoColor=52B0E7"/>
+	<!--<img alt="TypeOrm" src ="https://img.shields.io/badge/TypeOrm-white.svg?&style=flat&logo=TypeScript&logoColor=52B0E7"/>-->
 </div>
  
 
@@ -93,8 +94,6 @@
 <img alt="Docker" src ="https://img.shields.io/badge/Docker-2496ED.svg?&style=flat&logo=Docker&logoColor=white"/>
 <img alt="git" src ="https://img.shields.io/badge/git-F05032.svg?&style=flat&logo=git&logoColor=orange"/>
 <img alt="GitHub Actions" src ="https://img.shields.io/badge/GitHub Actions-2088FF.svg?&style=flat&logo=GitHub Actions&logoColor=black"/>
-<img src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=Heroku&logoColor=white"/></a>&nbsp
-
 
 </div>
 
@@ -104,9 +103,6 @@
  <a href="https://solved.ac/profile/loda"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=loda"/></a>	
 	
  <img alt="Linux" src ="https://img.shields.io/badge/Linux-FCC624.svg?&style=flat&logo=Linux&logoColor=black"/>
- <img alt="Ubuntu" src ="https://img.shields.io/badge/Ubuntu-E95420.svg?&style=flat&logo=Ubuntu&logoColor=orange"/>
- <img alt="Raspberry Pi" src ="https://img.shields.io/badge/Raspberry Pi-A22846.svg?&style=flat&logo=Raspberry Pi&logoColor=white"/>
- <img alt="iBeacon" src ="https://img.shields.io/badge/iBeacon-white.svg?&style=flat&logo=iBeacon&logoColor=3D7EBB"/>
 	<a href="https://pytorch.org/">
   	<img alt="pytorch" src ="https://img.shields.io/badge/pytorch-EE4C2C.svg?&style=flat&logo=pytorch&logoColor=orange"/>
 	</a>
