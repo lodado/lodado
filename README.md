@@ -17,11 +17,9 @@
 	<summary>History..! 🚀</summary>
 	<ul>  
 			<li> (2015. 03 ~ 2022. 2) 전남대학교 입학!🐥 <br></li>
-			<li> (2016. 06 ~ 2016. 12) California  State University Fullerton International Programs <br></li>
 			<li> (2017.03 ~ 2019. 03) 병역의 의무! 💪 <br></li>
 			<li> (2019. 12 ~ 2020. 03) Coursera Machine Learning<a href="https://blog.naver.com/ycp998/222180149174"> [후기 Link]  <br></a> </li>
 			<li> (2020. 07 ~ 2021. 06) 시각지능미디어연구실 컴퓨터 비전 학부연구생 <a href="https://sites.google.com/site/seokbongyoo/"> [홈페이지 Link] </a> <a href="https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002728025"> [논문 Link]  <br></a></li>
-			<li> (2021. 01 ~ 2021. 02) 코멘토 데이터베이스 직무 캠프 <br></li>
 			<li> (2021. 07 ~ 2021. 08.14) <a href="https://boostcamp.connect.or.kr/">Naver boostcamp 웹모바일 6기</a> for Full Stack Developers 첼린지 과정 수료 <br>
 			<li> (2021. 08 ~ 2021. 12) <a href="https://boostcamp.connect.or.kr/">Naver boostcamp 웹모바일 6기</a> for Full Stack Developers 멤버쉽 과정<br>
 		</li>
