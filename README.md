@@ -3,7 +3,9 @@
 </a>
 
 
-# Introduce 👋 [🏠 blog](https://blog.naver.com/ycp998/)   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ycp998@gmail.com)](mailto:ycp998@gmail.com)
+# Introduce 👋 [🏠 blog](https://blog.naver.com/ycp998/)   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ycp998@gmail.com)](mailto:ycp998@gmail.com) 
+
+### [🎨 Notion ](https://silver-blue-23c.notion.site/05dbcdd9a36e480daffd5373eccf9399)
 
 ##### 저는 이런 사람이고 싶습니다.
 
