@@ -90,21 +90,13 @@
 ## DevOps & Tools
 
 <div>
-<img alt="Docker" src ="https://img.shields.io/badge/Docker-2496ED.svg?&style=flat&logo=Docker&logoColor=white"/>
 <img alt="git" src ="https://img.shields.io/badge/git-F05032.svg?&style=flat&logo=git&logoColor=orange"/>
-<img alt="GitHub Actions" src ="https://img.shields.io/badge/GitHub Actions-2088FF.svg?&style=flat&logo=GitHub Actions&logoColor=black"/>
-
 </div>
 
 ## other
 
 <div>
  <a href="https://solved.ac/profile/loda"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=loda"/></a>	
-	
- <img alt="Linux" src ="https://img.shields.io/badge/Linux-FCC624.svg?&style=flat&logo=Linux&logoColor=black"/>
-	<a href="https://pytorch.org/">
-  	<img alt="pytorch" src ="https://img.shields.io/badge/pytorch-EE4C2C.svg?&style=flat&logo=pytorch&logoColor=orange"/>
-	</a>
 </div>
 
 <br>
