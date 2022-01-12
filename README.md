@@ -48,13 +48,8 @@
 
 ## Language
 <div>
-
-  <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=flat&logo=python&logoColor=white" />
- </a>
  <img alt="JavaScript" src ="https://img.shields.io/badge/Javascript-F7DF1E.svg?&style=flat&logo=Javascript&logoColor=important"/>
-   
  <img alt="TypeScript" src ="https://img.shields.io/badge/TypeScript-white.svg?&style=flat&logo=TypeScript&logoColor=3178C6"/>
-
 </div>
 
 ## FRONTEND
@@ -64,39 +59,6 @@
 	<!--<img alt="Redux" src ="https://img.shields.io/badge/Redux-764ABC.svg?&style=flat&logo=React&logoColor=white"/>-->
 	<img alt="webpack" src ="https://img.shields.io/badge/webpack-8DD6F9.svg?&style=flat&logo=webpack&logoColor=white"/>
 	<img alt="Recoil" src ="https://img.shields.io/badge/Recoil-004060.svg?&style=flat&logo=React&logoColor=white"/>
-	<img alt="Styled-Components" src ="https://img.shields.io/badge/Styled_Components-DB7093.svg?&style=flat&logo=styled-components&logoColor=white"/>
-	<!--
-	<img alt="Jest" src ="https://img.shields.io/badge/Jest-C21325.svg?&style=flat&logo=Jest&logoColor=white"/>
-	<img alt="Prettier" src ="https://img.shields.io/badge/Prettier-192A33.svg?&style=flat&logo=Prettier&logoColor=F7B93E"/>
-	<img alt="ESLint" src ="https://img.shields.io/badge/ESLint-4B32C3.svg?&style=flat&logo=ESLint&logoColor=white"/>-->
-</div>
-
-## BACKEND
-
-<div>
-	<img alt="node.js" src ="https://img.shields.io/badge/node.js-339933.svg?&style=flat&logo=node.js&logoColor=green"/>
-	<img alt="express" src ="https://img.shields.io/badge/express-green.svg?&style=flat&logo=node.js&logoColor=white"/>
-	<!--<img alt="Sequelize" src ="https://img.shields.io/badge/Sequelize-white.svg?&style=flat&logo=Sequelize&logoColor=52B0E7"/>-->
-	<!--<img alt="TypeOrm" src ="https://img.shields.io/badge/TypeOrm-white.svg?&style=flat&logo=TypeScript&logoColor=52B0E7"/>-->
-</div>
- 
-
-## DB
-
-<div>
-<img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat&logo=MySQL&logoColor=white"/>
-</div>
-
-## DevOps & Tools
-
-<div>
-<img alt="git" src ="https://img.shields.io/badge/git-F05032.svg?&style=flat&logo=git&logoColor=orange"/>
-</div>
-
-## other
-
-<div>
- <a href="https://solved.ac/profile/loda"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=loda"/></a>	
 </div>
 
 <br>
