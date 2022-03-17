@@ -69,7 +69,12 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lodado&layout=compact&hide=MATLAB&exclude_repo=lodado.github.io)
 
+<div>
+ <a href="https://solved.ac/profile/loda"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=loda"/></a>	
+</div>
+
 <br>
+
 
 
 <!--
