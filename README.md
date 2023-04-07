@@ -2,22 +2,13 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&fontColor=black&height=300&section=header&text=Chungheon%20Lee&fontSize=85"/>
 </a>
 
-
- 
 # 🛠 Tech Stack
-
-
-
-## Language
-<div>
- <img alt="JavaScript" src ="https://img.shields.io/badge/Javascript-F7DF1E.svg?&style=flat&logo=Javascript&logoColor=important"/>
- <img alt="TypeScript" src ="https://img.shields.io/badge/TypeScript-white.svg?&style=flat&logo=TypeScript&logoColor=3178C6"/>
-</div>
-<br/>
 
 ## FRONTEND
 
 <div>
+	<img alt="JavaScript" src ="https://img.shields.io/badge/Javascript-F7DF1E.svg?&style=flat&logo=Javascript&logoColor=important"/>
+        <img alt="TypeScript" src ="https://img.shields.io/badge/TypeScript-white.svg?&style=flat&logo=TypeScript&logoColor=3178C6"/>
 	<img alt="react" src ="https://img.shields.io/badge/React-white.svg?&style=flat&logo=React&logoColor=61DAFB"/>
 	<img alt="styledcomponents" src ="https://img.shields.io/badge/styled components-DB7093.svg?&style=flat&logo=styledcomponents&logoColor=383838"/>
 	<img alt="SWR" src ="https://img.shields.io/badge/SWR-white.svg?&style=flat&logo=SWR&logoColor=334155"/>
