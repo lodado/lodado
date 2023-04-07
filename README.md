@@ -13,20 +13,28 @@
  <img alt="JavaScript" src ="https://img.shields.io/badge/Javascript-F7DF1E.svg?&style=flat&logo=Javascript&logoColor=important"/>
  <img alt="TypeScript" src ="https://img.shields.io/badge/TypeScript-white.svg?&style=flat&logo=TypeScript&logoColor=3178C6"/>
 </div>
+<br/>
 
 ## FRONTEND
 
 <div>
 	<img alt="react" src ="https://img.shields.io/badge/React-white.svg?&style=flat&logo=React&logoColor=61DAFB"/>
 	<img alt="styledcomponents" src ="https://img.shields.io/badge/styled components-DB7093.svg?&style=flat&logo=styledcomponents&logoColor=383838"/>
-	<img alt="Next.js" src ="https://img.shields.io/badge/Next.js-000000.svg?&style=flat&logo=Next.js&logoColor=white"/>
 	<img alt="SWR" src ="https://img.shields.io/badge/SWR-white.svg?&style=flat&logo=SWR&logoColor=334155"/>
 	<img alt="Mobx" src ="https://img.shields.io/badge/Mobx-FF9955.svg?&style=flat&logo=Mobx&logoColor=white"/>
 	<img alt="Storybook" src ="https://img.shields.io/badge/Storybook-white.svg?&style=flat&logo=Storybook&logoColor=black"/>
 	<img alt="Jest" src ="https://img.shields.io/badge/Jest-C21325.svg?&style=flat&logo=Jest&logoColor=white"/>
 	<!--<img alt="Recoil" src ="https://img.shields.io/badge/Recoil-004060.svg?&style=flat&logo=React&logoColor=white"/>-->
-	
 </div>
+
+<br/>
+
+## I'm currently learning...
+<div>
+	<img alt="Next.js" src ="https://img.shields.io/badge/Next.js-000000.svg?&style=flat&logo=Next.js&logoColor=white"/>
+	<img alt="TurboRepo" src ="https://img.shields.io/badge/TurboRepo-EF4444.svg?&style=flat&logo=TurboRepo&logoColor=white"/>
+</div>
+
 
 <br>
 
