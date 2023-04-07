@@ -2,9 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&fontColor=black&height=300&section=header&text=Chungheon%20Lee&fontSize=85"/>
 </a>
 
-# 🛠 Tech Stack
-
-## FRONTEND
+## 🛠 Tech Stack
 
 <div>
 	<img alt="JavaScript" src ="https://img.shields.io/badge/Javascript-F7DF1E.svg?&style=flat&logo=Javascript&logoColor=important"/>
