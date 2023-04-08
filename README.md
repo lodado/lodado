@@ -13,6 +13,9 @@
 	<img alt="Mobx" src ="https://img.shields.io/badge/Mobx-FF9955.svg?&style=flat&logo=Mobx&logoColor=white"/>
 	<img alt="Storybook" src ="https://img.shields.io/badge/Storybook-white.svg?&style=flat&logo=Storybook&logoColor=black"/>
 	<img alt="Jest" src ="https://img.shields.io/badge/Jest-C21325.svg?&style=flat&logo=Jest&logoColor=white"/>
+	<br/>
+	<img alt="linux" src ="https://img.shields.io/badge/linux-FCC624.svg?&style=flat&logo=linux&logoColor=black"/>
+	<img alt="docker" src ="https://img.shields.io/badge/docker-2496ED.svg?&style=flat&logo=docker&logoColor=white"/>
 	<!--<img alt="Recoil" src ="https://img.shields.io/badge/Recoil-004060.svg?&style=flat&logo=React&logoColor=white"/>-->
 </div>
 
