@@ -2,10 +2,7 @@
     <img width="100%" height="300px" src="https://capsule-render.vercel.app/api?type=waving&color=auto&fontColor=black&height=300&section=header&text=Chungheon%20Lee&fontSize=85"/>
 </a>
 
-
-[<a href="[https://silver-blue-23c.notion.site/6444ebf6890345c3987ba0004a3af78d?pvs=4](https://silver-blue-23c.notion.site/6444ebf6890345c3987ba0004a3af78d?pvs=4)">
-    포트폴리오 링크 
-</a>](https://silver-blue-23c.notion.site/6444ebf6890345c3987ba0004a3af78d?pvs=4)
+[포트폴리오 링크!](https://silver-blue-23c.notion.site/6444ebf6890345c3987ba0004a3af78d?pvs=4)
 
 
 ## 🛠 Tech Stack
