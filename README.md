@@ -3,7 +3,7 @@
 </a>
 
 
-<a href="https://silver-blue-23c.notion.site/6444ebf6890345c3987ba0004a3af78d?pvs=4">
+<a href="[https://silver-blue-23c.notion.site/6444ebf6890345c3987ba0004a3af78d?pvs=4](https://silver-blue-23c.notion.site/6444ebf6890345c3987ba0004a3af78d?pvs=4)">
     포트폴리오 링크 
 </a>
 
