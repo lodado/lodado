@@ -8,6 +8,7 @@
   <img alt="TanStack Query" src="https://img.shields.io/badge/TanStack_Query-FF4154.svg?&style=flat&logo=ReactQuery&logoColor=white"/>
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/TailwindCSS-06B6D4.svg?&style=flat&logo=TailwindCSS&logoColor=white"/>
   <img alt="Radix UI" src="https://img.shields.io/badge/Radix_UI-161618.svg?&style=flat&logo=RadixUI&logoColor=white"/>
+  <img alt="Zod" src="https://img.shields.io/badge/Zod-3E67B1.svg?&style=flat&logo=Zod&logoColor=white"/>
   <br/>
   <img alt="Turborepo" src="https://img.shields.io/badge/Turborepo-EF4444.svg?&style=flat&logo=TurboRepo&logoColor=white"/>
   <img alt="Jest" src="https://img.shields.io/badge/Jest-C21325.svg?&style=flat&logo=Jest&logoColor=white"/>
