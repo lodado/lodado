@@ -33,8 +33,27 @@
 
 <br/>
 
+## 💼 Experience
+
+| Period | Company | Role |
+|--------|---------|------|
+| 2026.02.09 ~ Present | 한국딥러닝 | Frontend Engineer |
+| 2022.10 ~ 2026.02 | 티맥스 티베로 | Frontend Engineer |
+
+<br/>
+
+## 📂 Portfolio
+
+- Portfolio: [Notion Portfolio](https://www.notion.so/3520bc6660208095b4b8ca4186ae0e2a)
+
+---
+
+<br/>
+
 ## 📈 Github Stats  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/lodado/hit-counter&count_bg=%23FFB100&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
 <div>
- <a href="https://solved.ac/profile/loda"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=loda"/></a>	
+  <a href="https://solved.ac/profile/loda">
+    <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=loda"/>
+  </a>
 </div>
