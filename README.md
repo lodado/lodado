@@ -45,7 +45,7 @@
 ## 📂 Portfolio
 
 - Portfolio: [Notion Portfolio](https://www.notion.so/3520bc6660208095b4b8ca4186ae0e2a)
-
+- Linkedin: [Linkedin](https://www.linkedin.com/in/chungheon-lee-344259231/)
 ---
 
 <br/>
